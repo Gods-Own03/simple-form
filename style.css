@@ -21,6 +21,7 @@ body {
 
 /* Class 2: anotherClass */
 .second {
+    color: aquamarine;
     font-weight: bold;
     text-transform: uppercase;
 }
@@ -30,4 +31,12 @@ body {
     font-size: 18px;
     background-color: lightgray;
 }
+
+.fourth{
+    color: rgb(20, 20, 23);
+    font-size: 18px;
+    background-color: lightgray;
+}
+
+
 
