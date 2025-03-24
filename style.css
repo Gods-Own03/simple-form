@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+
+.first {
+    color: blue;
+    font-size: 18px;
+    background-color: lightgray;
+}
+
+/* Class 2: anotherClass */
+.second {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.third {
+    color: rgb(43, 43, 75);
+    font-size: 18px;
+    background-color: lightgray;
+}
+
